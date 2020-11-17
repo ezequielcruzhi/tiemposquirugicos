@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "id_accion": 1,
+    "descripcion": "A la espera de equipo quirurgico"
+  },
+  {
+    "id": 2,
+    "id_accion": 1,
+    "descripcion": "A la espera de equipo de anestesia"
+  },
+  {
+    "id": 3,
+    "id_accion": 1,
+    "descripcion": "Demora de camillero"
+  },
+  {
+    "id": 4,
+    "id_accion": 1,
+    "descripcion": "Problemas con el paciente"
+  },
+  {
+    "id": 5,
+    "id_accion": 1,
+    "descripcion": "Problemas con la caja"
+  }
+]
