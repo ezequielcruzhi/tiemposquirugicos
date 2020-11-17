@@ -1,3 +1,4 @@
+{ "observaciones":
 [
   {
     "id": 1,
@@ -25,3 +26,4 @@
     "descripcion": "Problemas con la caja"
   }
 ]
+}
